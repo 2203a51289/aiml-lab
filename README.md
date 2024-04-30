@@ -9,4 +9,6 @@
 
 [Lab-05](https://github.com/2203a51289/aiml-lab/blob/main/Lab05%20(1)%20(1).ipynb)
 
-[Lab-06]()
+[Lab-06](https://github.com/2203a51289/aiml-lab/blob/main/Lab06%20(1)%20(1).ipynb)
+
+[Lab-07]()
