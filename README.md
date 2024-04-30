@@ -13,4 +13,6 @@
 
 [Lab-07](https://github.com/2203a51289/aiml-lab/blob/main/Lab-07%20(1)%20(1).ipynb)
 
-[Lab-08]()
+[Lab-08](https://github.com/2203a51289/aiml-lab/blob/main/Lab-08%20(1).ipynb)
+
+[Lab-09]()
