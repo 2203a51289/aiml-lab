@@ -19,4 +19,4 @@
 
 [Lab-10](https://github.com/2203a51289/aiml-lab/blob/main/LAB_10%20(1).ipynb)
 
-[AIML_PROJECT]
+[AIML_PROJECT](https://github.com/2203a51289/aiml-lab/blob/main/AQI_Project1.ipynb)
