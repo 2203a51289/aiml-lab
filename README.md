@@ -18,3 +18,5 @@
 [Lab-09](https://github.com/2203a51289/aiml-lab/blob/main/AIML_LAB9%20(1).ipynb)
 
 [Lab-10](https://github.com/2203a51289/aiml-lab/blob/main/LAB_10%20(1).ipynb)
+
+[AIML_PROJECT]
